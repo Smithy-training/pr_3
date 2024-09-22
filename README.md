@@ -1,16 +1,4 @@
-# pr_3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Кyзнецов О.В. ЭФБО-05-22
+![image](https://github.com/user-attachments/assets/adc8131c-be5e-46d5-9aae-a950a77ea9ea)
+![image](https://github.com/user-attachments/assets/60e89c6d-b139-4b09-a01b-da45a40574f9)
+![image](https://github.com/user-attachments/assets/4b0b753a-2809-4242-bb6b-9be389b07356)
